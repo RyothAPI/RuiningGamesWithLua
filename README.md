@@ -1,2 +1,2 @@
-# scripts
+# RuiningGamesWithLua
 Scripts for Roblox games.
