@@ -22,4 +22,3 @@ or [here](https://github.com/XVIRyon/kat-adjustable-ammo-capacity/blob/main/KAT%
 
 # Tools:
 [AztupBrew Obfuscator](https://obfuscator.aztupscripts.xyz/)
-En
